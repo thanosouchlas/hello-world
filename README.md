@@ -1,2 +1,2 @@
 # hello-world
-this is an intro repository
+This is the updated readme.
